@@ -31,6 +31,7 @@ Group name **Natasha Romanoff**
      * ความสำคัญในการทำเหมือง(Major Issues in Data Mining)
      * ประวัติความเป็นมา(A Brief History of Data Mining and Data Mining Society)
      * สรุป (Summary)
+     
   * บทที่ 2 Getting to Know Your Data มี 4 ไฟล์ ประกอบด้วยหัวข้อ ดังนี้
     
      * Basic Python (https://github.com/Jittiya/DWDM21/blob/6013a081b31d268e333fc5f87d3aa37665ebaeb9/Data101_(Chapter2).ipynb)
@@ -50,3 +51,9 @@ Group name **Natasha Romanoff**
        * Numpy Array (Indexing & Slicing, Useful functions, วนลูป, Quiz กลุ่ม)
        * Distance Matrix ( Euclidean Distance (L2-norm), Distance function, Manhattan Distance (L1-norm) )
  
+  * บทที่3 (https://github.com/Jittiya/DWDM21/blob/b0eb560363879f427bd56f5c741771735f0f1d8d/Data_Preprocessing(Chapter_3).ipynb) มีหัวข้อดังนี้
+     * Meta Data
+     * การจัดการข้อมูลในตารางก่อนนำไปวิเคราะห์
+       * ชี้ข้อมูลในตาราง 
+         * ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
+         * ชี้แบบ .iloc[] (มองข้อมูลเป็น metrix)
