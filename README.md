@@ -50,8 +50,9 @@ Group name **Natasha Romanoff**
      * Distance Numpy (https://github.com/Jittiya/DWDM21/blob/7e0f6e9c69683c86739b15e4e045514c5426372d/Distance_Numpy.ipynb)
        * Numpy Array (Indexing & Slicing, Useful functions, วนลูป, Quiz กลุ่ม)
        * Distance Matrix ( Euclidean Distance (L2-norm), Distance function, Manhattan Distance (L1-norm) )
- 
-  * บทที่3 (https://github.com/Jittiya/DWDM21/blob/b0eb560363879f427bd56f5c741771735f0f1d8d/Data_Preprocessing(Chapter_3).ipynb) มีหัวข้อดังนี้
+     * สไลด์ (https://github.com/Jittiya/DWDM21/blob/65f5dfea53ec2adf85f231bb5aaef073f2d2fa36/Lecture%20Chapter%202.pdf)
+     
+  * บทที่ 3 (https://github.com/Jittiya/DWDM21/blob/b0eb560363879f427bd56f5c741771735f0f1d8d/Data_Preprocessing(Chapter_3).ipynb) มีหัวข้อดังนี้
      * Meta Data
      * การจัดการข้อมูลในตารางก่อนนำไปวิเคราะห์
        * ชี้ข้อมูลในตาราง 
@@ -81,4 +82,24 @@ Group name **Natasha Romanoff**
          * Group by (pandas)
          * [PD] save ตารางเอาไปใช้
          * [PD] การสร้างตาราง
-    * สไลด์ 
+     * สไลด์ 
+  * บทที่ 4 Data Warehousing and On-line Anaalytical Processing ()
+     * Basic Data Warehouse
+       * คลังข้อมูลคืออะไร
+       * วัตถุประสงค์
+       * การบูรณาการ
+     * Data Cube and OLAP
+       * OLTP vs OLAP
+       * Data Cubes
+       * Conceptual Modeling of Data Warehouse
+     * การออกแบบ และการใช้งานคลังข้อมูล
+     * ความสำคัญของคลังข้อมูล
+     * สไลด์
+  * บทที่ 5 Association Rules (https://github.com/Jittiya/DWDM21/blob/65f5dfea53ec2adf85f231bb5aaef073f2d2fa36/Chapter6_Association_Rules.ipynb) มีหัวข้อดังนี้
+     * ความหมาย
+     * Basic concepts
+       * การวาดกราฟสรุปจำนวน items และ ยอดขาย
+       * การเตรียม Data สำหรับ(Fequence Pattern) Association Rule
+     * Efficient Pattern Mining Methods
+       * Apriori
+       * Support
