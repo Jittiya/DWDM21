@@ -56,7 +56,7 @@ Group name **Natasha Romanoff**
      * Meta Data
      * การจัดการข้อมูลในตารางก่อนนำไปวิเคราะห์
        * ชี้ข้อมูลในตาราง 
-         * ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
+         * ชี้แบบธรรมดา ใช้ ชื่อ column [index]
          * ชี้แบบ .iloc[] (มองข้อมูลเป็น metrix)
        * Missing Value
          * Handle Missing Value 1 (ลบค่า Missing)
@@ -124,7 +124,7 @@ Group name **Natasha Romanoff**
        * Neural Network
      * Evaluation  (https://github.com/Jittiya/DWDM21/blob/da6b4207801cfc21caf05162b1504135dd59f43f/Chapter7_Classification_(Evaluation).ipynb)
        * Split Data หรือ แบ่ง Data
-       * สร้าง Model ทำนาย
+       * สร้าง Model เพื่อทำนาย
        * Evaluation
      * สไลด์ (https://github.com/Jittiya/DWDM21/blob/0c1d9f62c054a6f86dc3e7e41a8c7f082fa20bb7/Lecture%20Chapter%207.pdf)
 
@@ -142,3 +142,4 @@ Group name **Natasha Romanoff**
   * Project 
      * Project  (https://github.com/Jittiya/DWDM21/blob/1959f48a8acdd52a7af05cf6e63c63663f44282d/Project.ipynb)
      * สไลด์นำเสนอ  (https://github.com/Jittiya/DWDM21/blob/1959f48a8acdd52a7af05cf6e63c63663f44282d/Project.pdf)
+     
