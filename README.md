@@ -19,24 +19,4 @@ Group name **Natasha Romanoff**
 
   ## วิชา Data Mining and Data Warehouse
 
-    * บทที่ 1 Introduction (https://github.com/Jittiya/DWDM21/blob/ff469b4674f245df220d5e107059ff4aa02c8720/Lecture%20Chapter%201.pdf) ประกอบด้วยหัวข้อ ดังนี้
-
-         * ทำไมต้องมีการทำเหมืองข้อมูล (Why Data Mining?)
-
-         * อะไรคือเหมืองข้อมูล (What Is Data Mining?)
-
-         * มุมมองหลายมิติของเหมืองข้อมูล (A Multi-Dimensional View of Data Mining)
-
-         * สามารถขุดเเหมืองข้อมูลที่ไหนได้บ้าง (What Kinds of Data Can Be Mined?)
-
-         * รูปแบบหรือทิศทางของข้อมูล (What Kinds of Patterns Can Be Mined?)
-
-         * ใช้เทคโนโลยีประเภทใด? (What Kinds of Technologies Are Used?)
-
-         *แอพพลิเคชั่นเป้าหมาย(What Kinds of Applications Are Targeted?)
-
-         *ความสำคัญในการทำเหมือง(Major Issues in Data Mining)
-
-         *ประวัติความเป็นมา(A Brief History of Data Mining and Data Mining Society)
-
-         *สรุป (Summary)
+   * บทที่ 1 Introduction
