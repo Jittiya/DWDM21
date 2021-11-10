@@ -134,11 +134,11 @@ Group name **Natasha Romanoff**
        * Explore data
        * Clustering
        * นับจำนวนสี
-     * สไลด์  ()
+     * สไลด์  (https://github.com/Jittiya/DWDM21/blob/1959f48a8acdd52a7af05cf6e63c63663f44282d/Lecture%20Chapter%208.pdf)
      
   * Exam
      * Mini Exam  (https://github.com/Jittiya/DWDM21/blob/da6b4207801cfc21caf05162b1504135dd59f43f/MiniExam.ipynb)
   
   * Project 
-     * Project  ()
-     * สไลด์นำเสนอ  ()
+     * Project  (https://github.com/Jittiya/DWDM21/blob/1959f48a8acdd52a7af05cf6e63c63663f44282d/Project.ipynb)
+     * สไลด์นำเสนอ  (https://github.com/Jittiya/DWDM21/blob/1959f48a8acdd52a7af05cf6e63c63663f44282d/Project.pdf)
