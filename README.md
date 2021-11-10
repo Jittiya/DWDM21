@@ -15,23 +15,23 @@ Group name **Natasha Romanoff**
 
 5 ฐิติวัฒน์ จันทรเสนา       623021047-5   
 
-#สารบัญเนื้อหา
+# สารบัญเนื้อหา
 
-  ##วิชา Data Mining and Data Warehouse
+  ## วิชา Data Mining and Data Warehouse
 
-    *บทที่ 1 Introduction (https://github.com/Jittiya/DWDM21/blob/ff469b4674f245df220d5e107059ff4aa02c8720/Lecture%20Chapter%201.pdf) ประกอบด้วยหัวข้อ ดังนี้
+    * บทที่ 1 Introduction (https://github.com/Jittiya/DWDM21/blob/ff469b4674f245df220d5e107059ff4aa02c8720/Lecture%20Chapter%201.pdf) ประกอบด้วยหัวข้อ ดังนี้
 
-         *ทำไมต้องมีการทำเหมืองข้อมูล (Why Data Mining?)
+         * ทำไมต้องมีการทำเหมืองข้อมูล (Why Data Mining?)
 
-         *อะไรคือเหมืองข้อมูล (What Is Data Mining?)
+         * อะไรคือเหมืองข้อมูล (What Is Data Mining?)
 
-         *มุมมองหลายมิติของเหมืองข้อมูล (A Multi-Dimensional View of Data Mining)
+         * มุมมองหลายมิติของเหมืองข้อมูล (A Multi-Dimensional View of Data Mining)
 
-         *สามารถขุดเเหมืองข้อมูลที่ไหนได้บ้าง (What Kinds of Data Can Be Mined?)
+         * สามารถขุดเเหมืองข้อมูลที่ไหนได้บ้าง (What Kinds of Data Can Be Mined?)
 
-         *รูปแบบหรือทิศทางของข้อมูล (What Kinds of Patterns Can Be Mined?)
+         * รูปแบบหรือทิศทางของข้อมูล (What Kinds of Patterns Can Be Mined?)
 
-         *ใช้เทคโนโลยีประเภทใด? (What Kinds of Technologies Are Used?)
+         * ใช้เทคโนโลยีประเภทใด? (What Kinds of Technologies Are Used?)
 
          *แอพพลิเคชั่นเป้าหมาย(What Kinds of Applications Are Targeted?)
 
