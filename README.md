@@ -35,4 +35,18 @@ Group name **Natasha Romanoff**
     
      * Basic Python (https://github.com/Jittiya/DWDM21/blob/6013a081b31d268e333fc5f87d3aa37665ebaeb9/Data101_(Chapter2).ipynb)
        * Casting (int(),str())
-       * Data Structure (list(),list,วิธีการสร้าง,การชี้ค่า,Loop,Condition,Function)
+       * Data Structure (list(), list, วิธีการสร้าง, การชี้ค่า, Loop, Condition, Function)
+     * Plot Data (https://github.com/Jittiya/DWDM21/blob/7e0f6e9c69683c86739b15e4e045514c5426372d/Data102(Chapter2).ipynb)
+       * Basic Data
+       * การตรวจสอบตารางข้อมูลโดยใช้ .head() & .tail()
+       * Boxplot
+       * Time Series Plot
+     * Visualizetion (https://github.com/Jittiya/DWDM21/blob/7e0f6e9c69683c86739b15e4e045514c5426372d/Data_Visualizetion.ipynb)
+       * Scatter plot (กำหนดขนาด, กำหนดสี, marker, alpha)
+       * Plot
+       * Bar chart (grouped, stacked)
+       * Histogram
+     * Distance Numpy (https://github.com/Jittiya/DWDM21/blob/7e0f6e9c69683c86739b15e4e045514c5426372d/Distance_Numpy.ipynb)
+       * Numpy Array (Indexing & Slicing, Useful functions, วนลูป, Quiz กลุ่ม)
+       * Distance Matrix ( Euclidean Distance (L2-norm), Distance function, Manhattan Distance (L1-norm) )
+ 
