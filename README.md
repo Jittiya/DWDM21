@@ -50,7 +50,7 @@ Group name **Natasha Romanoff**
      * Distance Numpy (https://github.com/Jittiya/DWDM21/blob/7e0f6e9c69683c86739b15e4e045514c5426372d/Distance_Numpy.ipynb)
        * Numpy Array (Indexing & Slicing, Useful functions, วนลูป, Quiz กลุ่ม)
        * Distance Matrix ( Euclidean Distance (L2-norm), Distance function, Manhattan Distance (L1-norm) )
-     * สไลด์ (https://github.com/Jittiya/DWDM21/blob/65f5dfea53ec2adf85f231bb5aaef073f2d2fa36/Lecture%20Chapter%202.pdf)
+     * สไลด์ (https://github.com/Jittiya/DWDM21/blob/0c1d9f62c054a6f86dc3e7e41a8c7f082fa20bb7/Lecture%20Chapter%202.pdf)
      
   * บทที่ 3 (https://github.com/Jittiya/DWDM21/blob/b0eb560363879f427bd56f5c741771735f0f1d8d/Data_Preprocessing(Chapter_3).ipynb) มีหัวข้อดังนี้
      * Meta Data
@@ -82,9 +82,9 @@ Group name **Natasha Romanoff**
          * Group by (pandas)
          * [PD] save ตารางเอาไปใช้
          * [PD] การสร้างตาราง
-     * สไลด์ 
+     * สไลด์  (https://github.com/Jittiya/DWDM21/blob/0c1d9f62c054a6f86dc3e7e41a8c7f082fa20bb7/Lecture%20Chapter%203.pdf)
      
-  * บทที่ 4 Data Warehousing and On-line Anaalytical Processing ()
+  * บทที่ 4 Data Warehousing and On-line Anaalytical Processing (https://github.com/Jittiya/DWDM21/blob/0c1d9f62c054a6f86dc3e7e41a8c7f082fa20bb7/Lecture%20Chapter%204.pdf)
      * Basic Data Warehouse
        * คลังข้อมูลคืออะไร
        * วัตถุประสงค์
@@ -95,7 +95,7 @@ Group name **Natasha Romanoff**
        * Conceptual Modeling of Data Warehouse
      * การออกแบบ และการใช้งานคลังข้อมูล
      * ความสำคัญของคลังข้อมูล
-     * สไลด์
+     * สไลด์  (https://github.com/Jittiya/DWDM21/blob/0c1d9f62c054a6f86dc3e7e41a8c7f082fa20bb7/Lecture%20Chapter%204.pdf)
      
   * บทที่ 5 Association Rules (https://github.com/Jittiya/DWDM21/blob/65f5dfea53ec2adf85f231bb5aaef073f2d2fa36/Chapter6_Association_Rules.ipynb) มีหัวข้อดังนี้
      * ความหมาย
@@ -105,7 +105,7 @@ Group name **Natasha Romanoff**
      * Efficient Pattern Mining Methods
        * Apriori
        * Support
-     * สไลด์
+     * สไลด์  (https://github.com/Jittiya/DWDM21/blob/0c1d9f62c054a6f86dc3e7e41a8c7f082fa20bb7/Lecture%20Chapter%206.pdf)
      
   * บทที่ 6 Classification มีหัวข้อ ดังนี้
      * Desition Tree  (https://github.com/Jittiya/DWDM21/blob/da6b4207801cfc21caf05162b1504135dd59f43f/Chapter7_Classification_(Decisoin_Tree).ipynb)
@@ -126,7 +126,7 @@ Group name **Natasha Romanoff**
        * Split Data หรือ แบ่ง Data
        * สร้าง Model ทำนาย
        * Evaluation
-     * สไลด์ 
+     * สไลด์ (https://github.com/Jittiya/DWDM21/blob/0c1d9f62c054a6f86dc3e7e41a8c7f082fa20bb7/Lecture%20Chapter%207.pdf)
 
   * บทที่ 7 Clustering  (https://github.com/Jittiya/DWDM21/blob/da6b4207801cfc21caf05162b1504135dd59f43f/Chap8_Clustering.ipynb)
      * K-means
@@ -134,7 +134,7 @@ Group name **Natasha Romanoff**
        * Explore data
        * Clustering
        * นับจำนวนสี
-     * สไลด์
+     * สไลด์  ()
      
   * Exam
      * Mini Exam  (https://github.com/Jittiya/DWDM21/blob/da6b4207801cfc21caf05162b1504135dd59f43f/MiniExam.ipynb)
