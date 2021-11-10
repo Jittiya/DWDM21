@@ -57,3 +57,28 @@ Group name **Natasha Romanoff**
        * ชี้ข้อมูลในตาราง 
          * ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
          * ชี้แบบ .iloc[] (มองข้อมูลเป็น metrix)
+       * Missing Value
+         * Handle Missing Value 1 (ลบค่า Missing)
+           * Quiz3 หาว่าการทำ dropna() ทำให้ข้อมูลหายไปกี่ %
+         * Handle Missing Value 1.5 (ลบค่า Missing เฉพาะใน column ที่เราสนใจ)
+         * Handle Missing Value 2
+         * Handle Missing Value 3 (แทนด้วย class ใหม่ (ค่าที่เหมาะสม))
+         * Handling Missing Value 4 (แทนด้วยค่ากลาง)
+         * Handling Missing Value 5 (แทนด้วย column ใกล้เคียง)
+       * PANDA
+         * Select data by values [PD]
+         * ใช้ & (and) และ | (or) ในการรวม list ของ boolean
+       * Quiz 4 + HW
+         * การต่อตารางแนวแกน Y [PD]
+         * Handling Missing Value 5 (แทนด้วย ค่ากลางของ samples ใน class เดียวกัน)
+         * การเรียงข้อมูล [PD]
+         * Outlier
+       * Quiz 5
+         * Quiz กลุ่ม III function box_vals
+         * Pandas' looping(.iterrows)
+       * การรวม 2 ตารางโดยใช้ .merge()
+         * เลือกบาง column จากอีกตารางหนึ่งมาแปะ .map()
+         * Group by (pandas)
+         * [PD] save ตารางเอาไปใช้
+         * [PD] การสร้างตาราง
+    * สไลด์ 
