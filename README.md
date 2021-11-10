@@ -83,6 +83,7 @@ Group name **Natasha Romanoff**
          * [PD] save ตารางเอาไปใช้
          * [PD] การสร้างตาราง
      * สไลด์ 
+     
   * บทที่ 4 Data Warehousing and On-line Anaalytical Processing ()
      * Basic Data Warehouse
        * คลังข้อมูลคืออะไร
@@ -95,6 +96,7 @@ Group name **Natasha Romanoff**
      * การออกแบบ และการใช้งานคลังข้อมูล
      * ความสำคัญของคลังข้อมูล
      * สไลด์
+     
   * บทที่ 5 Association Rules (https://github.com/Jittiya/DWDM21/blob/65f5dfea53ec2adf85f231bb5aaef073f2d2fa36/Chapter6_Association_Rules.ipynb) มีหัวข้อดังนี้
      * ความหมาย
      * Basic concepts
@@ -103,3 +105,40 @@ Group name **Natasha Romanoff**
      * Efficient Pattern Mining Methods
        * Apriori
        * Support
+     * สไลด์
+     
+  * บทที่ 6 Classification มีหัวข้อ ดังนี้
+     * Desition Tree  (https://github.com/Jittiya/DWDM21/blob/da6b4207801cfc21caf05162b1504135dd59f43f/Chapter7_Classification_(Decisoin_Tree).ipynb)
+       * Load Data
+       * Trian Model
+       * plot tree
+       * Evaluation
+       * Random
+       * Advanced Tree
+       * HW (https://github.com/Jittiya/DWDM21/blob/da6b4207801cfc21caf05162b1504135dd59f43f/HW%2014.pdf)
+     * KNN  (https://github.com/Jittiya/DWDM21/blob/da6b4207801cfc21caf05162b1504135dd59f43f/Chapter7_Classification_(KNN_NN).ipynb)
+       * Load data
+       * Split Data
+       * Train Model
+       * Retrain & Evaluate
+       * Neural Network
+     * Evaluation  (https://github.com/Jittiya/DWDM21/blob/da6b4207801cfc21caf05162b1504135dd59f43f/Chapter7_Classification_(Evaluation).ipynb)
+       * Split Data หรือ แบ่ง Data
+       * สร้าง Model ทำนาย
+       * Evaluation
+     * สไลด์ 
+
+  * บทที่ 7 Clustering  (https://github.com/Jittiya/DWDM21/blob/da6b4207801cfc21caf05162b1504135dd59f43f/Chap8_Clustering.ipynb)
+     * K-means
+       * Generate Data
+       * Explore data
+       * Clustering
+       * นับจำนวนสี
+     * สไลด์
+     
+  * Exam
+     * Mini Exam  (https://github.com/Jittiya/DWDM21/blob/da6b4207801cfc21caf05162b1504135dd59f43f/MiniExam.ipynb)
+  
+  * Project 
+     * Project  ()
+     * สไลด์นำเสนอ  ()
