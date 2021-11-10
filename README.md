@@ -19,6 +19,6 @@ Group name **Natasha Romanoff**
 
   ## วิชา Data Mining and Data Warehouse
 
-   **บทที่ 1 Introduction (https://github.com/Jittiya/DWDM21/blob/ff469b4674f245df220d5e107059ff4aa02c8720/Lecture%20Chapter%201.pdf) ประกอบด้วยหัวข้อ ดังนี้
+   * บทที่ 1 Introduction (https://github.com/Jittiya/DWDM21/blob/ff469b4674f245df220d5e107059ff4aa02c8720/Lecture%20Chapter%201.pdf) ประกอบด้วยหัวข้อ ดังนี้
      
-     *ทำไมต้องมีการทำเหมืองข้อมูล (Why Data Mining?)
+     * ทำไมต้องมีการทำเหมืองข้อมูล (Why Data Mining?)
